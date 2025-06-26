@@ -64,7 +64,9 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Rafael Ferreira',
-    description: 'Python Engineer',
+    description:
+      'Python Engineer & Startup CTO | Harvard CS50 | Architected Platform Processing 4M+ Receipts | ' +
+      'Client Grew +200% | FastAPI • AWS • Scaling',
     imageURL: 'https://gravatar.com/rafa761',
   },
   social: {
