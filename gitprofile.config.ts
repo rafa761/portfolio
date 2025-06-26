@@ -104,7 +104,6 @@ const CONFIG = {
     'PostgreSQL',
     'Oracle',
     'Git',
-    'Microservices',
   ],
   experiences: [
     {
