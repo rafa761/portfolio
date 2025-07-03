@@ -97,15 +97,20 @@ const CONFIG = {
   },
   skills: [
     'Python',
+    'Node',
+    'TypeScript',
     'Sql',
     'Docker',
     'FastApi',
+    'Flask',
     'SqlAlchemy',
     'Pytest',
     'AWS',
     'PostgreSQL',
     'Oracle',
     'Git',
+    'REST',
+    'GraphQL',
   ],
   experiences: [
     {
