@@ -93,7 +93,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1tRKpZGJuLevDz7-ryT6OCwfh8ns7Dm_j/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1TYuR5lpyzvbgk-NTGCv5BpIeKbY1qdHx/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
