@@ -65,8 +65,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Rafael Ferreira',
     description:
-      'Python Engineer & Startup CTO | Harvard CS50 | Architected Platform Processing 4M+ Receipts | ' +
-      'Client Grew +200% | FastAPI • AWS • Scaling',
+      'Senior Software Engineer | Founder/CTO | Backend, Event-Driven Systems, Regulated Industries',
     imageURL: 'https://gravatar.com/rafa761',
   },
   social: {
@@ -93,13 +92,20 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1TYuR5lpyzvbgk-NTGCv5BpIeKbY1qdHx/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1zSpiF_rQzC_8p_HzEeT4uCch7vQCAR6Q/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
+    'Event-Driven Systems',
+    'System Design',
+    'Redis',
+    'Pydantic',
+    'SOLID Principles',
+    'Clean Architecture',
+    'Idempotency-aware Workflows',
+    'CI/CD',
     'Node',
     'TypeScript',
-    'Sql',
     'Docker',
     'FastApi',
     'Flask',
@@ -108,11 +114,20 @@ const CONFIG = {
     'AWS',
     'PostgreSQL',
     'Oracle',
+    'SQL Optimization',
+    'Data Modeling',
     'Git',
     'REST',
     'GraphQL',
   ],
   experiences: [
+    {
+      company: 'BairesDev LLC',
+      position: 'Software Engineer',
+      from: 'June 2025',
+      to: 'Present',
+      companyLink: 'https://www.bairesdev.com',
+    },
     {
       company: 'Sales Sense',
       position: 'Co-founder & CTO',
@@ -126,6 +141,20 @@ const CONFIG = {
       from: 'December 2019',
       to: 'December 2020',
       companyLink: 'https://www.datainfo.inf.br',
+    },
+    {
+      company: "Mout'S Solucoes em TI",
+      position: 'Business Intelligence Analyst',
+      from: 'April 2019',
+      to: 'December 2019',
+      companyLink: 'https://mouts.info',
+    },
+    {
+      company: 'Galegao Supermercados',
+      position: 'Senior Software Analyst',
+      from: 'May 2012',
+      to: 'April 2019',
+      companyLink: 'https://www.galegao.com.br',
     },
   ],
   certifications: [
