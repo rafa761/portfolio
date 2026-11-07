@@ -65,7 +65,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Rafael Ferreira',
     description:
-      'Senior Software Engineer | Founder/CTO | Backend, Event-Driven Systems, Regulated Industries',
+      'AI Engineer & Backend Architect | Claude Agent SDK, LLM systems, Python, FastAPI, AWS | Ex-startup CTO, scaled to 4M+ records/day',
     imageURL: 'https://gravatar.com/rafa761',
   },
   social: {
@@ -92,14 +92,18 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1zSpiF_rQzC_8p_HzEeT4uCch7vQCAR6Q/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1mDI6UYTYhGQ4y7sczvl-oI398zSfzzZ1/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
     'Event-Driven Systems',
     'System Design',
+    'Ai engineering',
+    'RAG',
+    'Prompt Engineering',
     'Redis',
     'Pydantic',
+    'Pydantic AI',
     'SOLID Principles',
     'Clean Architecture',
     'Idempotency-aware Workflows',
@@ -112,6 +116,7 @@ const CONFIG = {
     'SqlAlchemy',
     'Pytest',
     'AWS',
+    'GCP',
     'PostgreSQL',
     'Oracle',
     'SQL Optimization',
@@ -158,6 +163,24 @@ const CONFIG = {
     },
   ],
   certifications: [
+    {
+      name: 'Retrieval Augmented Generation (RAG)',
+      body: 'Ai engineering',
+      year: 'Nov 2026',
+      link: 'https://www.coursera.org/account/accomplishments/verify/7YEBAPU70JIR',
+    },
+    {
+      name: 'Claude Certified Architect',
+      body: 'Ai engineering',
+      year: 'Sep 2026',
+      link: 'https://www.credly.com/badges/6526ceef-f538-4310-8b10-e5ef50f8adbb',
+    },
+    {
+      name: 'AWS Cloud Technical',
+      body: 'Cloud',
+      year: 'Jul 2026',
+      link: 'https://www.coursera.org/account/accomplishments/verify/M28Z0MKTIAVO',
+    },
     {
       name: 'Harvard CS50',
       body: 'Computer Science',
